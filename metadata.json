@@ -1,0 +1,6 @@
+{
+  "name": "UI Designer Portfolio",
+  "description": "Game UI / UX Designer Hong Gildong's Portfolio featuring 6 game interface projects with 4:3 showcase grid, detail modals, design specifications, and interactive previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
